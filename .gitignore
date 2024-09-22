@@ -2,7 +2,8 @@
 
 # dependencies
 node_modules/
-
+.env/
+.env
 # Expo
 .expo/
 dist/
@@ -18,7 +19,6 @@ web-build/
 
 # Metro
 .metro-health-check*
-
 # debug
 npm-debug.*
 yarn-debug.*
